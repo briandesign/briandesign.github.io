@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "briandesign",
     "description": "",
-    "home_page_url": "http:// briandesign.co.uk",
-    "feed_url": "http:// briandesign.co.uk/feed.json",
+    "home_page_url": "https:// briandesign.github.io/gh-pages",
+    "feed_url": "https:// briandesign.github.io/gh-pages/feed.json",
     "user_comment": "",
-    "icon": "http:// briandesign.co.uk/media/website/briandesign.png",
+    "icon": "https:// briandesign.github.io/gh-pages/media/website/briandesign.png",
     "author": {
         "name": "brian"
     },
     "items": [
         {
-            "id": "http:// briandesign.co.uk/brian-design.html",
-            "url": "http:// briandesign.co.uk/brian-design.html",
+            "id": "https:// briandesign.github.io/gh-pages/brian-design.html",
+            "url": "https:// briandesign.github.io/gh-pages/brian-design.html",
             "title": "Design, typography, artwork production for print… my devil is strictly in the detail.",
             "summary": "Contact me here.",
             "content_html": "<p><strong>Contact me <a href=\"mailto:brian@briandesign.co.uk?subject=Design%20enquiry\">here</a>.</strong></p>",
-            "image": "http:// briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg",
+            "image": "https:// briandesign.github.io/gh-pages/media/posts/1/img-20170210-2000x1500.jpeg",
             "author": {
                 "name": "brian"
             },
