@@ -3,7 +3,7 @@
     <title>briandesign</title>
     <link href="http://www.briandesign.co.uk/feed.xml" rel="self" />
     <link href="http://www.briandesign.co.uk" />
-    <updated>2023-12-21T13:44:41+00:00</updated>
+    <updated>2025-01-07T19:59:25+00:00</updated>
     <author>
         <name>brian</name>
     </author>
@@ -22,13 +22,13 @@
             <summary>
                 <![CDATA[
                         <img src="http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" alt="" />
-                    Contact me here.
+                    You can contact me here.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><strong>Contact me <a href="mailto:brian@briandesign.co.uk?subject=Design%20enquiry">here</a>.</strong></p>
+                <p class="align-center"><strong>You can contact me <a href="mailto:brian@briandesign.co.uk?subject=Design%20enquiry">here</a>.</strong></p>
             ]]>
         </content>
     </entry>

@@ -14,8 +14,8 @@
             "id": "http://www.briandesign.co.uk/brian-design.html",
             "url": "http://www.briandesign.co.uk/brian-design.html",
             "title": "Design, typography, artwork production for print… my devil is strictly in the detail.",
-            "summary": "Contact me here.",
-            "content_html": "<p class=\"align-center\"><strong>Contact me <a href=\"mailto:brian@briandesign.co.uk?subject=Design%20enquiry\">here</a>.</strong></p>",
+            "summary": "You can contact me here.",
+            "content_html": "<p class=\"align-center\"><strong>You can contact me <a href=\"mailto:brian@briandesign.co.uk?subject=Design%20enquiry\">here</a>.</strong></p>",
             "image": "http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg",
             "author": {
                 "name": "brian"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2023-01-07T15:07:39+00:00",
-            "date_modified": "2023-12-21T13:44:41+00:00"
+            "date_modified": "2025-01-07T19:59:25+00:00"
         }
     ]
 }
