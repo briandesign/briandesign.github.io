@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>briandesign</title>
-    <link href="http://www.briandesign.co.uk/feed.xml" rel="self" />
-    <link href="http://www.briandesign.co.uk" />
+    <link href="https://www.briandesign.co.uk/feed.xml" rel="self" />
+    <link href="https://www.briandesign.co.uk" />
     <updated>2025-03-31T19:25:44+01:00</updated>
     <author>
         <name>brian</name>
     </author>
-    <id>http://www.briandesign.co.uk</id>
+    <id>https://www.briandesign.co.uk</id>
 
     <entry>
         <title>Book design, typography, logo development, graphic artwork for print… my devil is always in the detail.</title>
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.briandesign.co.uk/brian-design.html"/>
-        <id>http://www.briandesign.co.uk/brian-design.html</id>
-        <media:content url="http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" medium="image" />
+        <link href="https://www.briandesign.co.uk/brian-design.html"/>
+        <id>https://www.briandesign.co.uk/brian-design.html</id>
+        <media:content url="https://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" medium="image" />
 
         <updated>2023-01-07T15:07:39+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" alt="" />
+                        <img src="https://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" alt="" />
                     Contact me here.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="http://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.briandesign.co.uk/media/posts/1/img-20170210-2000x1500.jpeg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><strong>Contact me <a href="mailto:brian@briandesign.co.uk?subject=Design%20enquiry">here</a>.</strong></p>
             ]]>
         </content>
